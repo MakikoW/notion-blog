@@ -22,7 +22,7 @@ const Footer = ({ title }) => {
         <i className='fas fa-users'/> <span className='px-1 busuanzi_value_site_uv'> </span> </span>
         <br/>
         <h1>{title}</h1>
-        <span> Powered by MakikoPage </span>
+        <span>Powered by MakikoPage</span>
     </footer>
   )
 }
